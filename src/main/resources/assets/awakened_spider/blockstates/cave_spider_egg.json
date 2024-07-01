@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "awakened_spider:block/cave_spider_egg"
+      },
+      {
+        "model": "awakened_spider:block/cave_spider_egg",
+        "y": 90
+      },
+      {
+        "model": "awakened_spider:block/cave_spider_egg",
+        "y": 180
+      },
+      {
+        "model": "awakened_spider:block/cave_spider_egg",
+        "y": 270
+      }
+    ]
+  }
+}

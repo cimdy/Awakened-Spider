@@ -1,0 +1,12 @@
+{
+  "itemGroup.awakened_spider": "Awakened Spider",
+  "item.awakened_spider.spider_egg": "Spider Egg",
+  "block.awakened_spider.spider_egg": "Spider Egg",
+  "item.awakened_spider.cave_spider_egg": "Cave Spider Egg",
+  "block.awakened_spider.cave_spider_egg": "Cave Spider Egg",
+  "message.awakened_spider.your_behavior_makes_the_spider_angry": "behavior makes the spider angry",
+  "message.awakened_spider.spiders_still_need_to": "Spiders still need to",
+  "message.awakened_spider.min": "min",
+  "message.awakened_spider.s": "s",
+  "message.awakened_spider.you_need_shears_to_cut_off_cobweb": "need shears"
+}

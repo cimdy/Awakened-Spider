@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_all",
+	"textures": {
+		"0": "awakened_spider:block/cave_spider_egg",
+		"particle": "awakened_spider:block/cave_spider_egg"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 3, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
+			"faces": {
+				"north": {"uv": [1, 4, 5, 11], "texture": "#0"},
+				"east": {"uv": [1, 4, 5, 11], "texture": "#0"},
+				"south": {"uv": [1, 4, 5, 11], "texture": "#0"},
+				"west": {"uv": [1, 4, 5, 11], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}

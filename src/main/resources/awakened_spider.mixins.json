@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.cimdy.awakenedspider.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "awakenedspider.refmap.json",
+  "mixins": [
+    "CaveSpiderMixin",
+    "SpiderMixin",
+    "SpiderMixin$SpiderAttackGoalMixin",
+    "SpiderMixin$SpiderEffectsGroupData",
+    "SpiderMixin$SpiderTargetGoalMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

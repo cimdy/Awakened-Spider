@@ -1,0 +1,12 @@
+{
+  "itemGroup.awakened_spider": "蜘蛛觉醒了",
+  "item.awakened_spider.spider_egg": "蜘蛛卵",
+  "block.awakened_spider.spider_egg": "蜘蛛卵",
+  "item.awakened_spider.cave_spider_egg": "洞穴蜘蛛卵",
+  "block.awakened_spider.cave_spider_egg": "洞穴蜘蛛卵",
+  "message.awakened_spider.your_behavior_makes_the_spider_angry": "行为让蜘蛛愤怒",
+  "message.awakened_spider.spiders_still_need_to": "蜘蛛距离下次剪网还需要",
+  "message.awakened_spider.min": "分",
+  "message.awakened_spider.s": "秒",
+  "message.awakened_spider.you_need_shears_to_cut_off_cobweb": "需要剪刀"
+}
