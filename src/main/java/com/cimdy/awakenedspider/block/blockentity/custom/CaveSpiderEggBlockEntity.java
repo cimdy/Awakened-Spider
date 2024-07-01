@@ -20,7 +20,7 @@ public class CaveSpiderEggBlockEntity extends BlockEntity {
     private int hatch_time;
     private int max_hatch_time;
     public CaveSpiderEggBlockEntity(BlockPos pPos, BlockState pBlockState) {
-        super(BlockEntityTypeRegister.SPIDER_EGG.get(), pPos, pBlockState);
+        super(BlockEntityTypeRegister.CAVE_SPIDER_EGG.get(), pPos, pBlockState);
     }
 
     @Override
