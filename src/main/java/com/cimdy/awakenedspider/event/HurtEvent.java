@@ -1,7 +1,6 @@
 package com.cimdy.awakenedspider.event;
 
 import com.cimdy.awakenedspider.attach.AttachRegister;
-import com.mojang.blaze3d.shaders.Effect;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.EntityType;
