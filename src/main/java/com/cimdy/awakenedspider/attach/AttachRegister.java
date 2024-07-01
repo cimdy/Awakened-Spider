@@ -14,12 +14,6 @@ public class AttachRegister {
     public static final Supplier<AttachmentType<Integer>> SHEAR_COBWEB = ATTACHMENT_TYPES.register(
             "shear_cobweb", () -> AttachmentType.builder(() -> 0).serialize(Codec.INT).build());
 
-    public static final Supplier<AttachmentType<Integer>> MOVEMENT_SLOWDOWN = ATTACHMENT_TYPES.register(
-            "movement_slowdown", () -> AttachmentType.builder(() -> 0).serialize(Codec.INT).build());
-
-    public static final Supplier<AttachmentType<Integer>> POISON = ATTACHMENT_TYPES.register(
-            "poison", () -> AttachmentType.builder(() -> 0).serialize(Codec.INT).build());
-
     public static final Supplier<AttachmentType<Boolean>> HAVING_SPIDER = ATTACHMENT_TYPES.register(
             "having_spider", () -> AttachmentType.builder(() -> false).serialize(Codec.BOOL).build());
 
